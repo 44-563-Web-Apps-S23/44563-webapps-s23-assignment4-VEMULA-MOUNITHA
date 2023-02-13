@@ -1,48 +1,83 @@
+.speech{
+font-size: 15px;
+font-family:Arial, Helvetica, sans-serif;
+color: black;
+}
+.direction{
+    background-color:lightcyan;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.direction:hover{
+    background-color:lightsteelblue;
+    color: lightblue;
+}
+.name{
+    font-style: italic;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+   
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:steelblue;
+    text-align:start;
+    
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+    text-align: initial;
+}
 .COTTON
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:cornflowerblue;
+}
+.COTTON:hover
+{
     font-size: medium;
     color: black;
-    text-align: left;
-    background-color: aqua;
+    filter: blur(0.5px);
 }
 .CHARLES
 {
-    font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-    color: black;
-    text-align: left;
-    background-color: aqua;
+    color:dodgerblue;
 }
-.CHARLES
+.CHARLES:hover
 {
-    font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    text-align: left;
-    background-color: aqua;
+    filter: blur(0.5px);
 }
 .BETTY
 {
-    font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-    color: black;
+    color:hotpink;
     text-align: left;
-    background-color: aqua;
 }
-.COTTON
+.BETTY:hover
 {
-    font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    text-align: left;
-    background-color: aqua;
+    filter: blur(0.5px);
 }
 .ADONIJAH
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:cadetblue;
+}
+.ADONIJAH:hover
+{
     font-size: medium;
     color: black;
-    text-align: left;
-    background-color: aqua;
+    filter: blur(0.5px);
 }
