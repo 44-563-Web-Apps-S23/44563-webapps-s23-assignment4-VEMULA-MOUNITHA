@@ -46,6 +46,8 @@ h3{
     font-size: medium;
     color: black;
     filter: blur(0.5px);
+    text-shadow:  blue 0.5px 0 5px;
+    border-style:dashed;
 }
 .CHARLES
 {
@@ -57,18 +59,23 @@ h3{
     font-size: medium;
     color: black;
     filter: blur(0.5px);
+    text-shadow:  blue 0.5px 0 5px;
+    border-style:dashed;
 }
 .BETTY
 {
     font-size: medium;
     color:hotpink;
     text-align: left;
+    
 }
 .BETTY:hover
 {
     font-size: medium;
     color: black;
     filter: blur(0.5px);
+    text-shadow:  blue 0.5px 0 5px;
+    border-style:dashed;
 }
 .ADONIJAH
 {
@@ -80,6 +87,8 @@ h3{
     font-size: medium;
     color: black;
     filter: blur(0.5px);
+    text-shadow:  blue 0.5px 0 5px;
+    border-style:dashed;
 }
 table,
 th,
