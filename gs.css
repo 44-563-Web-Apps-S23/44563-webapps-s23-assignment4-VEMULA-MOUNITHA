@@ -110,7 +110,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color:darkgreen;
+    color:lightpink;
   }
   
   /* mouse over link */
@@ -128,7 +128,7 @@ a:link {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:darkviolet;
+    background-color:cornflowerblue;
   }
   
   li {
@@ -144,9 +144,9 @@ a:link {
   }
   
   li a:hover:not(.active) {
-    background-color:black;
+    background-color:cornflowerblue;
   }
   
   .active {
-    background-color:darkviolet;
+    background-color:cornflowerblue;
   }
