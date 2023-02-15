@@ -45,7 +45,7 @@ h3{
 {
     font-size: medium;
     color: black;
-    filter: blur(0.5px);
+    filter: blur(0.9px);
     text-shadow:  blue 0.5px 0 5px;
     border-style:dashed;
 }
@@ -58,7 +58,7 @@ h3{
 {
     font-size: medium;
     color: black;
-    filter: blur(0.5px);
+    filter: blur(0.9px);
     text-shadow:  blue 0.5px 0 5px;
     border-style:dashed;
 }
@@ -73,7 +73,7 @@ h3{
 {
     font-size: medium;
     color: black;
-    filter: blur(0.5px);
+    filter: blur(0.9px);
     text-shadow:  blue 0.5px 0 5px;
     border-style:dashed;
 }
@@ -86,7 +86,7 @@ h3{
 {
     font-size: medium;
     color: black;
-    filter: blur(0.5px);
+    filter: blur(0.9px);
     text-shadow:  blue 0.5px 0 5px;
     border-style:dashed;
 }
@@ -96,10 +96,17 @@ td{
     text-align: center;
     white-space: nowrap;
     border: 3px solid black;
+    border-style: dashed;
     margin: 20px 25px 10px 15px;
     border-color: paleturquoise;
     color:rgb(76,98,85);
 }
+tr:nth-child(even) {
+    background-color:plum;
+  }
+tr:nth-child(odd) {
+    background-color:pink;
+  }
 th,
 td{
     padding: 20px;
